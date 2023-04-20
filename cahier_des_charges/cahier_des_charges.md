@@ -25,14 +25,52 @@ RGPD, lien vers site extérieur (lien malveillant, phishing, ...).
 
 ## Description des cas d'utilisation
 
+### Créer un compte
+| Cas d'utilisation         | Nom                   |
+|---------------------------|-----------------------|
+| Acteur primaire           | Visiteur              |
+| Système                   | Système global        |
+| Date de création          | 20/04/2023            |
+| Date de modification      | 20/04/2023            |
+| Auteur de la modification | Côme PICARD           |
+| Précondition              | Ne pas être identifié |
+
+| Opérations : | Description                           |
+|--------------|---------------------------------------|
+| 1            | Cliquer sur le bouton de connexion    |
+| 2            | Choisir l'option "Créer un compte"    |
+| 3            | Renseigner les informations du compte |
+| 4            | Remplir le code envoyé par mail       |
+| 5            | Confirmer la création du compte       |
+
+
+
 
 ## Exigences fonctionnelles
-
+- Listing des objets
+- Page de détail
+- Filtrer les objets
+- Possibilité de poster
+- Gestion des utilisateurs
+- Pouvoir upvote/downvote
+- Possibilité de commenter
 
 ## Exigences non-fonctionnelles
-
+- Gestion d'un grand nombre d'utilisateurs
+- Avoir une modération active
 
 ## Contraintes
-
+- Gestion des routes pour les nouveaux objets
+- Stockage des vidéos
 
 ## Prestation attendues
+1. [Planning]()
+2. [Guide de démarrage]()
+3. [Documentation]()
+## Annexe
+
+### Dictionnaire des données
+
+| Nom                | Label              | Type               | Taille             |
+|--------------------|--------------------|--------------------|--------------------|
+| Colonne 1, Ligne 1 | Colonne 2, Ligne 1 | Colonne 3, Ligne 1 | Colonne 4, Ligne 1 |
