@@ -18,7 +18,7 @@ Encyclopédie communautaire musicale.
 - Visiteur: Peut accéder aux publications
 
 ## Périmètre du système
-![useCaseMusiVerse](../assets/userCaseMusiVerse.jpg "Use Case MusiVerse")
+![useCaseMusiVerse](./assets/userCaseMusiVerse.jpg "Use Case MusiVerse")
 
 ## Règles métiers
 RGPD, lien vers site extérieur (lien malveillant, phishing, ...).
