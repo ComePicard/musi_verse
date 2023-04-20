@@ -21,7 +21,7 @@ Encyclopédie communautaire musicale.
 ![Use Case MusiVerse](../assets/useCaseMusicVerse.jpg)
 
 ## Règles métiers
-RGPD, lien vers site extérieur (lien malveillant, phishing, ...).
+RGPD, lien vers site extérieur (conditions d'utilisations du site en question etc...).
 
 ## Description des cas d'utilisation
 
