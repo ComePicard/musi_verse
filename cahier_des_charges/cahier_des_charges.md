@@ -35,13 +35,14 @@ RGPD, lien vers site extérieur (conditions d'utilisations du site en question e
 | Auteur de la modification | Côme PICARD           |
 | Précondition              | Ne pas être identifié |
 
-| Opérations : | Description                           |
-|--------------|---------------------------------------|
-| 1            | Cliquer sur le bouton de connexion    |
-| 2            | Choisir l'option "Créer un compte"    |
-| 3            | Renseigner les informations du compte |
-| 4            | Remplir le code envoyé par mail       |
-| 5            | Confirmer la création du compte       |
+| Opérations :  | Description                               |
+|---------------|-------------------------------------------|
+| 1             | Choisir l'action de connexion             |
+| 2             | Choisir l'option "Créer un compte"        |
+| 3             | Renseigner les _informations_ du compte   |
+| 4             | Le système envoie un code à l'utilisateur |
+| 5             | Remplir le code envoyé par mail           |
+| 6             | Confirmer la création du compte           |
 
 
 
