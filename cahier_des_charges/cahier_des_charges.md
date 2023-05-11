@@ -62,7 +62,9 @@ RGPD, lien vers site extérieur (conditions d'utilisations du site en question e
 - Le système doit être léger et le plus réactif possible
 
 ## Contraintes
-
+- Le système doit être imperméable contre les injections et les risques de sécurité en tout genre
+- Le système doit être capable de gérer un grand nombre de requêtes simultanées
+- Le contenu du système doit être administré par des modérateurs et des administrateurs
 
 ## Prestation attendues
 1. [Planning]()
@@ -75,3 +77,8 @@ RGPD, lien vers site extérieur (conditions d'utilisations du site en question e
 | Nom                | Label              | Type               | Taille             |
 |--------------------|--------------------|--------------------|--------------------|
 | Colonne 1, Ligne 1 | Colonne 2, Ligne 1 | Colonne 3, Ligne 1 | Colonne 4, Ligne 1 |
+
+## Planning
+
+
+
