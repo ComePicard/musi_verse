@@ -74,9 +74,12 @@ RGPD, lien vers site extérieur (conditions d'utilisations du site en question e
 
 ### Dictionnaire des données
 
-| Nom                | Label              | Type               | Taille             |
-|--------------------|--------------------|--------------------|--------------------|
-| Colonne 1, Ligne 1 | Colonne 2, Ligne 1 | Colonne 3, Ligne 1 | Colonne 4, Ligne 1 |
+| Code             | Désignation                                                  | Type | Taille             |
+|------------------|--------------------------------------------------------------|------|--------------------|
+| `user_id`        | L'identifiant unique d'un utilisateur (client,modo,admin)    | n    |                    |
+| `post_id`        | L'identifiant unique d'un post d'un utilisateur (réponse)    | n    | 255                |
+| `article_id`     | L'identifiant unique d'un article                            | n    |                    |
+| `status_article` | Vrai/Faux si l'article a été validé ou non par un modérateur | 1    | Colonne 4, Ligne 1 |
 
 ## Planning
 
