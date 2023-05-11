@@ -1,7 +1,7 @@
 # Cahier des charges
 
 ## Contexte
-Encyclopédie communautaire musicale.
+Dans un cadre ou les communautés de musique sont souvent divisées en petites communautés sur internet, le MusiVerse vient en liant de ces communautés, proposant une plateforme de partage, une encyclopédie communautaire et une expérience basée autour du regroupement de ces petits groupes.
 
 ## Objectifs
 - Centraliser les informations sur des outils ou instruments en lien avec la musique:
