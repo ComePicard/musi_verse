@@ -70,6 +70,7 @@ RGPD, lien vers site extérieur (conditions d'utilisations du site en question e
 1. [Planning]()
 2. [Guide de démarrage]()
 3. [Documentation]()
+
 ## Annexe
 
 ### Dictionnaire des données
@@ -83,5 +84,11 @@ RGPD, lien vers site extérieur (conditions d'utilisations du site en question e
 
 ## Planning
 
+### Pour le 04/06/2023
+- Maquettage :
+  - Faire l'arborescence du projet
+  - Faire une maquette des pages principales (liste équipements, détail équipement)
+- Préparation API/UI :
+  - Faire l'installation des projets d'API et d'UI
 
 
