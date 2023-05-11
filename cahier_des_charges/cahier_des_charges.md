@@ -48,16 +48,18 @@ RGPD, lien vers site extérieur (conditions d'utilisations du site en question e
 
 
 ## Exigences fonctionnelles
-- Listing des objets
-- Page de détail
-- Filtrer les objets
-- Possibilité de poster
-- Gestion des utilisateurs
-- Pouvoir upvote/downvote
-- Possibilité de commenter
+- Le système doit afficher la liste de tous les équipements
+- Le système doit afficher le détail d'un équipement choisi
+- Le système doit pouvoir filtrer la liste des équipements
+- Le système doit permettre à tout contributeur d'ajouter un équipement
+- Le système doit permettre à un administrateur de gérer le compte d'un modérateur ou d'un contributeur
+- Le système doit permettre à un modérateur de gérer le compte d'un contributeur
+- Le système doit permettre à un contributeur d'approuver ou de désapprouver un aspect ou un commentaire de l'équipement
+- Le système doit permettre à un contributeur de poster un commentaire sur un équipement
 
 ## Exigences non-fonctionnelles
-
+- L'expérience utilisateur doit être fluide et intuitive
+- Le système doit être léger et le plus réactif possible
 
 ## Contraintes
 
